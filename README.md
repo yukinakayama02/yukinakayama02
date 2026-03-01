@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yukinakayama02
 - 👀 I like dogs, volleyball, and tv shows 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking for advice on my projects
 - 📫 Reach me on LinkedIn @yukinakayama02
 
